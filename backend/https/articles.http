@@ -1,0 +1,11 @@
+POST http://localhost:8080/api/v1/articles
+Content-Type: application/json
+
+{
+  "title": "Apple ra mắt iPhone 1666",
+    "keyword": "apple, iphone, công nghệ",
+    "description": "Apple chính thức ra mắt iPhone 15 với nhiều cải tiến",
+    "content": "Apple đã công bố dòng iPhone 15 với nhiều tính năng mới như cổng USB-C, camera nâng cấp...",
+    "createdAt": "2025-03-31T09:05:14.449Z",
+    "updatedAt": "2025-03-31T09:05:14.449Z"
+}
